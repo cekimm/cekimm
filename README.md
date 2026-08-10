@@ -1,6 +1,6 @@
 My website: https://seeun.world/
 
-Currently working on contract projects; pricing will range between 10K to $20K. I'm handing 2-3 contracts right now, so pricing will be higher than usual. (Updated Jul 10)
+Currently working on contract projects; pricing will range between 10K to $20K. I'm handing 2-3 contracts right now, so pricing will be higher than usual. (Updated Aug 10)
 
 I work in fintech, specifically focusing on designing high-density UIs, such as trading terminals, agent dashboards, or crypto-based pipelines. I'm always open to pivot for different stuff though.
 
