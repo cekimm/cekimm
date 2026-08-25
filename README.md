@@ -1,4 +1,4 @@
-My website: https://seeun.world/
+My website: https://motostudios.co/
 
 Currently working on contract projects. I'm handing 2-3 contracts right now, so pricing will be higher than usual. (Updated Aug 10)
 
